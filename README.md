@@ -1,13 +1,11 @@
 # Olá, eu sou o Thalles! 👋
 
-
 ## 🚀 Sobre mim
 Eu sou aluno do Instituto Federal de Paranavaí
 Moro em Paranavaí, tenho 21 anos
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS...
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
@@ -26,27 +24,6 @@ Javascript, HTML, CSS...
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-## 🔗 Links
-
-
-
-## Outras seções comuns em perfis do GitHub
-👩‍💻 Trabalho atualmente na/no...
-
-🧠 Estou aprendendo...
-
-👯‍♀️ Procuro colaborar em...
-
-🤔 Procuro ajuda com...
-
-💬 Me pergunte sobre...
-
-📫 Como entrar em contato comigo...
-
-😄 Pronomes...
-
-⚡️ Fatos engraçados...
-
 
 ## Estatística
 
