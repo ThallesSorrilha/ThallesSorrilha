@@ -1,8 +1,9 @@
 # Olá, eu sou o Thalles! 👋
 
 ## 🚀 Sobre mim
-Eu sou aluno do Instituto Federal de Paranavaí
-Moro em Paranavaí, tenho 21 anos
+Eu sou aluno do Instituto Federal de Paranavaí,
+moro em Paranavaí,
+tenho 21 anos
 
 
 ## 🛠 Habilidades
