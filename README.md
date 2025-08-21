@@ -5,6 +5,11 @@ Eu sou aluno do Instituto Federal de Paranavaí,
 moro em Paranavaí,
 tenho 21 anos
 
+## 📊 Estatística
+
+![Atividade no GitHub](https://github-readme-stats.vercel.app/api?username=ThallesSorrilha&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&langs_count=20&layout=donut)
 
 ## 🛠 Habilidades
 
@@ -63,7 +68,3 @@ tenho 21 anos
 ### Prototipação
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## Estatística
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThallesSorrilha&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
