@@ -3,13 +3,13 @@
 ## 🚀 Sobre mim
 Eu sou aluno do Instituto Federal de Paranavaí,
 moro em Paranavaí,
-tenho 21 anos
+tenho 22 anos
 
 ## 📊 Estatística
 
-![Atividade no GitHub](https://github-readme-stats.vercel.app/api?username=ThallesSorrilha&show_icons=true)
+![Atividade no GitHub](https://github-readme-stats.vercel.app/api?username=ThallesSorrilha&show_icons=true&theme=monokai)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&langs_count=20&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&langs_count=9&layout=donut&theme=monokai)
 
 ## 🛠 Habilidades
 
