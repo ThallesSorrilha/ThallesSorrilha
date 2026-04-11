@@ -6,6 +6,7 @@ Sou o Thalles, tenho 22 anos e moro em Paranavaí. Atualmente estou cursando Eng
 open to work
 
 ✉️thallessorrilha@gmail.com
+
 🧑‍💻www.linkedin.com/in/thalles-sorrilha-meira-barros
 
 ## 🛠 Habilidades
