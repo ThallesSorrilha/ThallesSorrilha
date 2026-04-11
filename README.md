@@ -1,17 +1,12 @@
-# Olá, eu sou o Thalles! 👋
+# Olá, eu sou o Thalles Sorrilha! 👋
 
 ## 🚀 Sobre mim
-Eu sou aluno do Instituto Federal de Paranavaí,
-moro em Paranavaí,
-tenho 22 anos
+Sou o Thalles, tenho 22 anos e moro em Paranavaí. Atualmente estou cursando Engenharia de Software (4º ano) pelo IFPR - Instituto Federal do Paraná.
 
-## 📊 Estatística
+open to work
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=ThallesSorrilha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Atividade no GitHub](https://github-readme-stats.vercel.app/api?username=ThallesSorrilha&show_icons=true&theme=monokai)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&langs_count=9&layout=donut&theme=monokai)
+✉️thallessorrilha@gmail.com
+🧑‍💻www.linkedin.com/in/thalles-sorrilha-meira-barros
 
 ## 🛠 Habilidades
 
