@@ -7,6 +7,10 @@ tenho 22 anos
 
 ## 📊 Estatística
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThallesSorrilha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&layout=compact&theme=tokyonight&langs_count=8)
+
 ![Atividade no GitHub](https://github-readme-stats.vercel.app/api?username=ThallesSorrilha&show_icons=true&theme=monokai)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&langs_count=9&layout=donut&theme=monokai)
