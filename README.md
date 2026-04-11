@@ -9,8 +9,6 @@ open to work
 
 🧑‍💻www.linkedin.com/in/thalles-sorrilha-meira-barros
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🛠 Habilidades
 
 ### Desktop
