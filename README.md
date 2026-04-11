@@ -7,9 +7,9 @@ tenho 22 anos
 
 ## 📊 Estatística
 
-| Estatísticas Gerais | Linguagens mais utilizadas |
-| :---: | :---: |
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fulano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fulano&layout=compact&theme=tokyonight&langs_count=8" /> |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThallesSorrilha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&layout=compact&theme=tokyonight&langs_count=8" />
 
 ![Atividade no GitHub](https://github-readme-stats.vercel.app/api?username=ThallesSorrilha&show_icons=true&theme=monokai)
 
