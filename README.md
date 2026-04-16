@@ -89,9 +89,9 @@ Sou o Thalles, tenho 22 anos e moro em Paranavaí. Atualmente estou cursando Eng
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thalles-sorrilha-meira-barros" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-%23121011.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:thallessorrilha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="thallessorrilha@gmail.com" />
+    <img src="https://img.shields.io/badge/Gmail-%23121011.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="thallessorrilha@gmail.com" />
   </a>
 </p>
