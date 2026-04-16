@@ -73,21 +73,18 @@ open to work
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
       <br>
       <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="380" height="1" />
       <h3>Banco de Dados</h3>
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
       <br>
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <br>
       <h3>Mobile</h3>
       <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
       <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-      <br>
       <h3>Outros</h3>
       <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
       <br>
       <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
-      <br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="380" height="1" />
     </td>
   </tr>
 </table>
