@@ -11,9 +11,7 @@ open to work
 
 ## 📊 Estatísticas
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ThallesSorrilha?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&layout=donut&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ThallesSorrilha?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&layout=donut&theme=dark&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ThallesSorrilha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThallesSorrilha&theme=dark&hide_border=false)
 
