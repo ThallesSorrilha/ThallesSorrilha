@@ -42,7 +42,6 @@ Sou o Thalles, tenho 22 anos e moro em Paranavaí. Atualmente estou cursando Eng
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
       <br>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-      <br>
       <h3>WEB</h3>
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -60,7 +59,9 @@ Sou o Thalles, tenho 22 anos e moro em Paranavaí. Atualmente estou cursando Eng
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
       <br>
       <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-      <br>
+      <h3>Mobile</h3>
+      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" />
     </td>
     <td valign="top" width="50%" align="left">
@@ -77,9 +78,6 @@ Sou o Thalles, tenho 22 anos e moro em Paranavaí. Atualmente estou cursando Eng
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
       <br>
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <h3>Mobile</h3>
-      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
       <h3>Outros</h3>
       <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
       <br>
