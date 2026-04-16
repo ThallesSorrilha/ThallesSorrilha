@@ -30,9 +30,9 @@ open to work
 
 ## 🛠 Habilidades
 
-<table border="0" width="100%">
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="left">
       <h3>Desktop</h3>
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -57,7 +57,7 @@ open to work
       <br>
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="left">
       <h3>Banco de Dados</h3>
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
       <br>
