@@ -11,18 +11,19 @@ open to work
 
 ## 📊 Estatísticas
 
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td>
+    <td align="center" width="50%">
       <a href="https://git.io/awesome-stats-card">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThallesSorrilha?cardType=level-alternate&theme=dark&preferLogin=true" alt="My Awesome Stats" />
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThallesSorrilha?cardType=level-alternate&theme=dark&preferLogin=true" alt="My Awesome Stats" style="width: 100%; max-width: 450px;" />
       </a>
       <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThallesSorrilha&theme=dark&hide_border=false" alt="ThallesSorrilha's Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThallesSorrilha&theme=dark&hide_border=false" alt="ThallesSorrilha's Streak" style="width: 100%; max-width: 450px;" />
     </td>
-    <td valign="top">
+    
+    <td align="center" width="50%" valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&layout=donut&theme=dark&langs_count=10" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&layout=donut&theme=dark&langs_count=10" alt="Top Langs" style="width: 100%; max-width: 400px;" />
       </a>
     </td>
   </tr>
