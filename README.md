@@ -20,7 +20,6 @@ open to work
       <br />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThallesSorrilha&theme=dark&hide_border=false" alt="ThallesSorrilha's Streak" style="width: 100%; max-width: 450px;" />
     </td>
-    
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&layout=donut&theme=dark&langs_count=10" alt="Top Langs" style="width: 100%; max-width: 400px;" />
