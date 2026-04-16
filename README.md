@@ -11,11 +11,9 @@ open to work
 
 ## 📊 Estatísticas
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ThallesSorrilha?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ThallesSorrilha?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card) ![ThallesSorrilha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-![ThallesSorrilha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-![ThallesSorrilha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThallesSorrilha&theme=vue-dark&hide_border=true)
+![ThallesSorrilha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThallesSorrilha&theme=dark&hide_border=false)
 
 ## 🛠 Habilidades
 
