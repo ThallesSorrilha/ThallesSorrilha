@@ -64,6 +64,16 @@ open to work
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" />
     </td>
     <td valign="top" width="50%" align="left">
+      <h3>Ferramentas</h3>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="380" height="1" />
       <h3>Banco de Dados</h3>
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
       <br>
@@ -78,16 +88,6 @@ open to work
       <br>
       <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
       <br>
-      <h3>Ferramentas</h3>
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="380" height="1" />
     </td>
   </tr>
 </table>
