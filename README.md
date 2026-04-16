@@ -30,7 +30,7 @@ open to work
 
 ## 🛠 Habilidades
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td valign="top" width="50%">
       <h3>Desktop</h3>
