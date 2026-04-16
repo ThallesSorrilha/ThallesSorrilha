@@ -11,6 +11,23 @@ open to work
 
 ## 📊 Estatísticas
 
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://git.io/awesome-stats-card">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThallesSorrilha?cardType=level-alternate&theme=dark&preferLogin=true" alt="My Awesome Stats" />
+      </a>
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThallesSorrilha&theme=dark&hide_border=false" alt="ThallesSorrilha's Streak" />
+    </td>
+    <td valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&layout=donut&theme=dark&langs_count=10" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ThallesSorrilha?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&layout=donut&theme=dark&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ThallesSorrilha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThallesSorrilha&theme=dark&hide_border=false)
