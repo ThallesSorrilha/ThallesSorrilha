@@ -1,7 +1,7 @@
 # Olá, eu sou o Thalles Sorrilha! 👋
 
 ## 🚀 Sobre mim
-Sou o Thalles, tenho 22 anos e moro em Paranavaí. Atualmente estou cursando Engenharia de Software pelo Instituto Federal do Paraná (IFPR) - 4º ano. Sou técnico em Informática, formado por lá também. Comecei a gostar de programação à partir de jogos, imaginando como é que eles tinham sido feitos. Busco sempre aprender novas tecnologias e melhorar a forma como eu construo os meus softwares. Estou aberto à oportunidades de trabalho na área de desenvolvimento de sistemas, TI e afins.
+Sou o Thalles, tenho 22 anos e moro em Paranavaí. Atualmente estou cursando Engenharia de Software pelo Instituto Federal do Paraná (IFPR) - 4º ano. Sou técnico em Informática, formado por lá também. Comecei a gostar de programação à partir de jogos, imaginando como é que eles tinham sido feitos. Busco sempre aprender novas tecnologias e melhorar a forma como eu construo os meus softwares. Estou aberto à oportunidades de trabalho na área de desenvolvimento de sistemas, TI e afins. 🎮
 
 \- open to work -
 
