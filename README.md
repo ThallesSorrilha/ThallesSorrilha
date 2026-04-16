@@ -11,7 +11,7 @@ open to work
 
 ## 📊 Estatísticas
 
-<table border="1" bordercolor="#0D1117" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" width="50%">
       <a href="https://git.io/awesome-stats-card">
