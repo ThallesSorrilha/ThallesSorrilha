@@ -9,6 +9,12 @@ open to work
 
 🧑‍💻www.linkedin.com/in/thalles-sorrilha-meira-barros
 
+![ThallesSorrilha's Stats](https://github-readme-stats.vercel.app/api?username=ThallesSorrilha&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![ThallesSorrilha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThallesSorrilha&theme=vue-dark&hide_border=true)
+
+![ThallesSorrilha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ## 🛠 Habilidades
 
 ### Desktop
