@@ -18,6 +18,7 @@ open to work
         <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThallesSorrilha?cardType=level-alternate&theme=dark&preferLogin=true" alt="My Awesome Stats" style="width: 100%; max-width: 450px;" />
       </a>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" />
+      <br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThallesSorrilha&theme=dark&hide_border=false" alt="ThallesSorrilha's Streak" style="width: 100%; max-width: 450px;" />
     </td>
     <td align="center" width="50%" valign="top">
