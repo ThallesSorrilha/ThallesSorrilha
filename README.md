@@ -18,7 +18,7 @@ Sou o Thalles, tenho 22 anos e moro em Paranavaí. Atualmente estou cursando Eng
     </td>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&layout=donut&theme=dark&langs_count=9" alt="Top Langs" style="width: 100%; max-width: 400px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesSorrilha&layout=donut&theme=dark&langs_count=10" alt="Top Langs" style="width: 100%; max-width: 400px;" />
       </a>
     </td>
   </tr>
