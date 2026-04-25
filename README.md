@@ -62,6 +62,9 @@ Sou o Thalles, tenho 23 anos e moro em Paranavaí. Atualmente estou cursando Eng
     </td>
     <td valign="top" width="50%" align="left">
       <h3>Ferramentas</h3>
+      <img src="https://img.shields.io/badge/SCRUM-%230C8CB4?style=for-the-badge" alt="Scrum" />
+      <img src="https://img.shields.io/badge/KANBAN-%23865E9D?style=for-the-badge" alt="Kanban" />
+      <br>
       <img src="https://img.shields.io/badge/drawio-%23F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" />
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
       <br>
