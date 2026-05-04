@@ -44,6 +44,8 @@ Sou o Thalles, tenho 23 anos e moro em Paranavaí. Atualmente estou cursando Eng
       <br>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <h3>Frameworks</h3>
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <br>
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
       <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -53,11 +55,10 @@ Sou o Thalles, tenho 23 anos e moro em Paranavaí. Atualmente estou cursando Eng
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
       <br>
       <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-      <h3>WEB</h3>
+      <h3>Marcação</h3>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
       <br>
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
       <br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" />
@@ -77,9 +78,8 @@ Sou o Thalles, tenho 23 anos e moro em Paranavaí. Atualmente estou cursando Eng
       <br>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
       <h3>Banco de Dados</h3>
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-      <br>
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
       <br>
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
       <h3>Outros</h3>
@@ -88,6 +88,12 @@ Sou o Thalles, tenho 23 anos e moro em Paranavaí. Atualmente estou cursando Eng
       <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
       <br>
       <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST-0052CC?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="REST" />
+      <h3>Teste</h3>
+      <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+      <br>
+      <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3" alt="Pytest" />
+      <br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="380" height="1" />
     </td>
   </tr>
