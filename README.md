@@ -30,7 +30,6 @@ Sou o Thalles, tenho 23 anos e moro em Paranavaí. Atualmente estou cursando Eng
   <tr>
     <td valign="top" width="50%" align="left">
       <h3>Desktop</h3>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       <br>
       <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
