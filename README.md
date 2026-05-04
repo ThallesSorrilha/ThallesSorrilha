@@ -60,6 +60,8 @@ Sou o Thalles, tenho 23 anos e moro em Paranavaí. Atualmente estou cursando Eng
       <br>
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+      <h3>Segurança</h3>
+      <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
       <br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" />
     </td>
@@ -86,9 +88,6 @@ Sou o Thalles, tenho 23 anos e moro em Paranavaí. Atualmente estou cursando Eng
       <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3" alt="Pytest" />
       <br>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-      <br>
-      <h3>Segurança</h3>
-      <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
       <h3>Outros</h3>
       <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
       <br>
